@@ -1,2 +1,3 @@
 - 👋 Hey, I’m @FOL1E
-- 🇫🇷 B
+- 🇫🇷 French beginner on ~23 yo
+- I like python and computer intrusion
